@@ -4,7 +4,8 @@ tailwind.config = {
       colors: {
         clifford: '#DA373D',
         purple:'#B46AFF',
-        blackpurple:'#803F9B'
+        blackpurple:'#803F9B',
+        megaman:'#48dbfb'
       },
       fontFamily:{
         'kumar':['Kumar One','serif']
