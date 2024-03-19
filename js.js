@@ -13,7 +13,7 @@ window.onload = function () {
     if (boton.classList.contains('facebook')) {
       window.open("https://www.facebook.com/fede.val.9")
     } else if (boton.classList.contains('instagram')) {
-      window.open("https://www.instagram.com/_fede.val/")
+      window.open("https://www.instagram.com/opythatv/")
     } else if (boton.classList.contains('github')) {
       window.open("https://github.com/fedeval98")
     } else if (boton.classList.contains('linkedin')) {
